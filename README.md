@@ -1,20 +1,23 @@
-# PIM III 2024
+# PIM III 2024 📖
 
-## TEMA: FAZENDAS URBANAS
+## TEMA: FAZENDAS URBANAS 🌱
 
-### INTEGRANTES:
-<ul>
-  <li><a href="https://github.com/math20122004">Matheus Rafael da Silva Jesus</a></li>
-  <li><a href="https://github.com/VictorHT2">Victor Hugo</a></li>
-  <li><a href="https://github.com/pimunip01">Thiago Fernandes</a></li>
-</ul>
+### INTEGRANTES 🍻: 
 
-### CONTEXTO 
+✹ [Matheus Rafael da Silva Jesus](https://github.com/math20122004) \
+✹ [Victor Hugo](https://github.com/VictorHT2) \
+✹ [Thiago Fernandes](https://github.com/pimunip01) 
+
+### CONTEXTO 🌎
 Uma empresa que faz projetos e monta fazendas urbanas quer contratar a equipe do PIM para desenvolver um sistema para controle de fornecedores, produção e venda dos produtos da fazenda (ou prestação de serviços), pois ela deseja entregar o sistema junto com a montagem da fazenda urbana, o que será um diferencial de mercado.
 
 A empresa informa que as fazendas urbanas construídas por ela estão de acordo com os objetivos da ODS (Objetivos de Desenvolvimento Sustentável) e adequados aos princípios ESG (Environmental, Social and Governance - práticas ambientais, sociais e de governança de uma organização).
-### LISTA BACKLOG
 
-#### <a href="https://github.com/math20122004/pim_work_2024/blob/main/Past-BackLog/BACKLOG.xlsx">Lista de BackLog</a>
+### TÓPICOS 🎯
+
+➺ [Pesquisa](Pesquisa/Pesquisa%20do%20Pim.docx) \
+➺ [BackLogs](Pasta%20Backlog's/BACKLOG.xlsx) \
+➺ [Requisitos](Requisitos/REQUISITOS%20FUNCIONAIS%20CLIENTES.docx)
+
 
 
