@@ -6,7 +6,7 @@
 <ul>
   <li><a href="https://github.com/math20122004">Matheus Rafael da Silva Jesus</a></li>
   <li><a href="https://github.com/VictorHT2">Victor Hugo</a></li>
-  <li><a href="">Thiago Fernandes</a></li>
+  <li><a href="https://github.com/pimunip01">Thiago Fernandes</a></li>
 </ul>
 
 ### CONTEXTO 
