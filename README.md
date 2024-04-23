@@ -5,7 +5,7 @@
 ### INTEGRANTES 🍻: 
 
 ✹ [Matheus Rafael da Silva Jesus](https://github.com/math20122004) \
-✹ [Victor Hugo](https://github.com/VictorHT2) \
+✹ [Victor Hugo](https://github.com/VictorHT2) 
 
 ### CONTEXTO 🌎
 Uma empresa que faz projetos e monta fazendas urbanas quer contratar a equipe do PIM para desenvolver um sistema para controle de fornecedores, produção e venda dos produtos da fazenda (ou prestação de serviços), pois ela deseja entregar o sistema junto com a montagem da fazenda urbana, o que será um diferencial de mercado.
