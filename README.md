@@ -15,11 +15,21 @@ A empresa informa que as fazendas urbanas construídas por ela estão de acordo 
 ### TÓPICOS 🎯
 
 ➺ [Pesquisa](Pesquisa/Pesquisa%20do%20Pim.docx) \
-➺ [BackLogs](https://github.com/math20122004/pim_work_2024/tree/d987d4f70f06bdfaa9d486ee2c86d9c8e017731f/BackLog) \
-➺ [Requisitos](Requisitos/REQUISITOS%20FUNCIONAIS%20CLIENTES.docx) \
-➺ [Diagramas de Classe de Uso](https://github.com/math20122004/pim_work_2024/tree/d987d4f70f06bdfaa9d486ee2c86d9c8e017731f/Diagramas%20de%20Caso%20de%20Uso) \
+➺ [Viabilidade]()
+➺ [Recursos Humanos]() \
+➺ [Requisitos]() \
+➺ [BackLogs](https://github.com/users/VictorHT2/projects/7) \
+➺ [Sprint Backlog](https://github.com/users/VictorHT2/projects/8/views/1) \
+➺ [Diagramas de Caso de Uso](https://github.com/math20122004/pim_work_2024/tree/d987d4f70f06bdfaa9d486ee2c86d9c8e017731f/Diagramas%20de%20Caso%20de%20Uso) \
+➺ [Diagrama de Classe]() \
+➺ [Diagrama de Implantação]() \
+➺ [Diagrama de Sequência]() \
+➺ [PoC CRUD]() \
+➺ [Diagrama DER]() \
+➺ [Dicionário de Dados]() \
+➺ [Planilha de Testes]() \
 ➺ [Figma](https://www.figma.com/proto/O7jTNQE69g2xxBiJ3T0HTA/Untitled?type=design&node-id=1-2&t=xrpHJq7iFGU1v4pV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2https://www.figma.com/proto/O7jTNQE69g2xxBiJ3T0HTA/Untitled?type=design&node-id=1-2&t=xrpHJq7iFGU1v4pV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2) \
-➺
+➺ [Power Point]()
 
 
 
