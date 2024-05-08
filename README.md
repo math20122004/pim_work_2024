@@ -14,7 +14,7 @@ A empresa informa que as fazendas urbanas construídas por ela estão de acordo 
 
 ### TÓPICOS 🎯
 
-➺ [Pesquisa](Pesquisa/Pesquisa%20do%20Pim.docx](https://github.com/math20122004/pim_work_2024/blob/main/Pesquisa/PESQUISA.pdf) \
+➺ [Pesquisa](https://github.com/math20122004/pim_work_2024/blob/main/Pesquisa/PESQUISA.pdf) \
 ➺ [Viabilidade]() \
 ➺ [Recursos Humanos]() \
 ➺ [Requisitos](https://github.com/math20122004/pim_work_2024/blob/main/Requisitos/REQUISITOS.pdf) \
