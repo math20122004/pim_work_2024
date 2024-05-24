@@ -15,10 +15,10 @@ A empresa informa que as fazendas urbanas construídas por ela estão de acordo 
 ### TÓPICOS 🎯
 
 ➺ [Pesquisa](https://github.com/math20122004/pim_work_2024/blob/main/Pesquisa/PESQUISA.pdf) \
-➺ [Viabilidade]() \
-➺ [Recursos Humanos]() \
-➺ [Requisitos](https://github.com/math20122004/pim_work_2024/blob/main/Requisitos/REQUISITOS.pdf) \
-➺ [BackLogs](https://github.com/users/VictorHT2/projects/7) \
+➺ [Viabilidade](Viabilidade/Viabilidad) \
+➺ [Recursos Humanos](https://github.com/math20122004/pim_work_2024/blob/c2a12ff868bfaf0dc0e3d6a964b4ae611fad7cb0/Recursos%20Humanos/RH) \
+➺ [Requisitos](Requisitos/REQUISITOS.pdf) \
+➺ [BackLog](BackLog/BackLog.png) \
 ➺ [Sprint Backlog](https://github.com/users/VictorHT2/projects/8/views/1) \
 ➺ [Diagramas de Caso de Uso](https://github.com/math20122004/pim_work_2024/tree/d987d4f70f06bdfaa9d486ee2c86d9c8e017731f/Diagramas%20de%20Caso%20de%20Uso) \
 ➺ [Diagrama de Classe]() \
